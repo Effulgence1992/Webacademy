@@ -6,7 +6,7 @@ ___
 ## __Contact__
 >Kyiv, Ukraine  
 >[+380953984688](tel:+380953984688)  
->[mail](mailto:koroschenko.viktor@gmail.com)   
+>[koroschenko.viktor@gmail.com](mailto:koroschenko.viktor@gmail.com)   
 >[LinkedIn](https://www.linkedin.com/in/viktor-koroschenko-a7551462/)
 
 ## __Experience__
