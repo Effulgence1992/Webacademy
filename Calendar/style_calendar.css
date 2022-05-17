@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.central_panel {
+    width: 1535px;
+    height: 1795px;
+}
+
+.main_panel {
+    position: relative;
+    width: 1255px;
+    height: 1381px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 96px;
+}
+.header {
+    width: 1255px;
+    height: 133px;
+    display: flex;
+    border-bottom: 2px black;
+    margin-top: 83px;
+    margin-left: 142px;
+    margin-right: 138px;
+    border-bottom: 2px solid #F3F3F3;
+}
+
+.header_datetime {
+    justify-content: flex-start;
+    align-self: flex-start;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    color: #243D6F;
+
+}
+
+.header_nav ul {
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+    list-style-type: none;
+
+}
+
+.header_nav_layout {
+    margin-left: 52px;
+}
+
+.header_nav_search {
+    margin-left: 886px;
+}
+
+.schedule {
+    width: 1255px;
+    height: 31px;
+    margin-right: 140px;
+    margin-left: 140px;
+
+}
+
+.schedule span {
+    font-family: 'Roboto', sans-serif;
+    font-style: medium;
+    font-size: 26px;
+    width: 67px;
+    height: 31px;
+    color: #A4B0C3;
+}
+
+.schedule_time {
+    position: relative;
+    overflow: hidden;
+    margin-top: 91px;
+}
+
+[class="schedule_time schedule_time_1"] {
+    margin-top: 93px;
+}
+gi
+.schedule_time span:after {
+    content: "";
+    position: absolute;
+    width: 1255px;
+    border-top: 2px solid #F3F3F3;
+    align-self: center;
+    top: 12px;
+    left: 135px;
+
+}
